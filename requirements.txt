@@ -1,0 +1,16 @@
+# Biblioteki do analizy danych i wizualizacji
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning (import sklearn)
+scikit-learn
+
+# Pobieranie danych z Kaggle
+kagglehub
+
+# Środowisko Jupyter Notebook (niezbędne do uruchomienia lokalnie)
+jupyter
+notebook
+ipykernel
